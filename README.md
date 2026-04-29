@@ -14,8 +14,8 @@ NIFTY stock data (NESTLEIND)
 - Metrics: MSE, RMSE, MAE
 
 ## Results
-Both models were trained and compared. GRU/LSTM performed better based on RMSE.
+Both models were trained and compared. GRU performed better than LSTM based on lower RMSE.
 
 ## Files
-- lstm_nifty.ipynb
-- NESTLEIND.csv
+- AI, ML Assignment (Romana Ruqia)
+- Dataset (NESTLEIND).csv
